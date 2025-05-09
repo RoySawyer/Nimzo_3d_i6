@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-08 22:22+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_6.cpp:3
+msgid "No more matching games"
+msgstr "Artık eşleştirme oyunları yok"
+
+#: main_6.cpp:5
+msgid "Game list search message"
+msgstr "Oyun listesi arama mesajı"
+
+#: main_6.cpp:8
+msgid "The games are also highlighted in the game list window"
+msgstr "Oyunlar ayrıca oyun listesi penceresinde vurgulanır"
+
+#: main_6.cpp:10
+msgid "and can be purused with the following keyboard accelerators"
+msgstr "ve aşağıdaki klavye hızlandırıcıları ile takip edilebilir"
+
+#: main_6.cpp:12
+msgid "find next matching game"
+msgstr "bir sonraki eşleştirme oyununu bul"
+
+#: main_6.cpp:14
+msgid "find previous matching game"
+msgstr "önceki eşleştirme oyununu bul"
+
+#: main_6.cpp:16
+msgid "find first matching game"
+msgstr "ilk eşleştirme oyununu bul"
+
+#: main_6.cpp:18
+msgid "find last matching game"
+msgstr "son eşleşen oyunu bul"
+
+#: main_6.cpp:21
+msgid "core"
+msgstr "çekirdek"
+
+#: main_6.cpp:23
+msgid "cores"
+msgstr "çekirdekler"
+
+#: main_6.cpp:26
+msgid "A single left mouse click anywhere on the empty area below"
+msgstr "Aşağıdaki boş alanın herhangi bir yerine tek bir sol fare tıklaması"
+
+#: main_6.cpp:28
+msgid "the list box and to the right of the buttons will move to"
+msgstr "liste kutusu ve düğmelerin sağında hareket edecek"
+
+#: main_6.cpp:30
+msgid "and highlight the game number that has been bookmarked."
+msgstr "ve yer imlerine eklenen oyun numarasını vurgulayın."
