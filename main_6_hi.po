@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-08 22:22+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_6.cpp:3
+msgid "No more matching games"
+msgstr "अब कोई मिलान खेल नहीं"
+
+#: main_6.cpp:5
+msgid "Game list search message"
+msgstr "खेल सूची खोज संदेश"
+
+#: main_6.cpp:8
+msgid "The games are also highlighted in the game list window"
+msgstr "खेल सूची विंडो में भी खेल हाइलाइट किए गए हैं"
+
+#: main_6.cpp:10
+msgid "and can be purused with the following keyboard accelerators"
+msgstr "और इसे निम्नलिखित कीबोर्ड त्वरक के साथ उपयोग किया जा सकता है"
+
+#: main_6.cpp:12
+msgid "find next matching game"
+msgstr "अगला मिलान खेल खोजें"
+
+#: main_6.cpp:14
+msgid "find previous matching game"
+msgstr "पिछला मिलान खेल खोजें"
+
+#: main_6.cpp:16
+msgid "find first matching game"
+msgstr "पहला मिलान खेल खोजें"
+
+#: main_6.cpp:18
+msgid "find last matching game"
+msgstr "अंतिम मिलान वाला खेल खोजें"
+
+#: main_6.cpp:21
+msgid "core"
+msgstr "मुख्य"
+
+#: main_6.cpp:23
+msgid "cores"
+msgstr "कोर"
+
+#: main_6.cpp:26
+msgid "A single left mouse click anywhere on the empty area below"
+msgstr "नीचे खाली क्षेत्र पर कहीं भी एक बार बायाँ माउस क्लिक करें"
+
+#: main_6.cpp:28
+msgid "the list box and to the right of the buttons will move to"
+msgstr "सूची बॉक्स और बटन के दाईं ओर चले जाएंगे"
+
+#: main_6.cpp:30
+msgid "and highlight the game number that has been bookmarked."
+msgstr "और बुकमार्क किए गए गेम नंबर को हाइलाइट करें।"
