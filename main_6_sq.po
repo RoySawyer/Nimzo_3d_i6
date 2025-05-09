@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-08 22:22+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_6.cpp:3
+msgid "No more matching games"
+msgstr "Nuk ka më lojëra përputhjeje"
+
+#: main_6.cpp:5
+msgid "Game list search message"
+msgstr "Mesazhi i kërkimit të listës së lojërave"
+
+#: main_6.cpp:8
+msgid "The games are also highlighted in the game list window"
+msgstr "Lojërat janë gjithashtu të theksuara në dritaren e listës së lojërave."
+
+#: main_6.cpp:10
+msgid "and can be purused with the following keyboard accelerators"
+msgstr "dhe mund të pastrohet me përshpejtuesit e mëposhtëm të tastierës"
+
+#: main_6.cpp:12
+msgid "find next matching game"
+msgstr "gjej lojën tjetër që përputhet"
+
+#: main_6.cpp:14
+msgid "find previous matching game"
+msgstr "gjej lojën e mëparshme të përputhjes"
+
+#: main_6.cpp:16
+msgid "find first matching game"
+msgstr "gjej lojën e parë që përputhet"
+
+#: main_6.cpp:18
+msgid "find last matching game"
+msgstr "gjej lojën e fundit që përputhet"
+
+#: main_6.cpp:21
+msgid "core"
+msgstr "bërthamë"
+
+#: main_6.cpp:23
+msgid "cores"
+msgstr "bërthamat"
+
+#: main_6.cpp:26
+msgid "A single left mouse click anywhere on the empty area below"
+msgstr "Një klikim i vetëm me të majtën e miut kudo në zonën bosh më poshtë"
+
+#: main_6.cpp:28
+msgid "the list box and to the right of the buttons will move to"
+msgstr "kutia e listës dhe në të djathtë të butonave do të zhvendosen në"
+
+#: main_6.cpp:30
+msgid "and highlight the game number that has been bookmarked."
+msgstr "dhe nxirrni në pah numrin e lojës që është shënuar."
