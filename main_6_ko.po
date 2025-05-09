@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-08 22:22+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_6.cpp:3
+msgid "No more matching games"
+msgstr "더 이상 매칭 게임이 없습니다"
+
+#: main_6.cpp:5
+msgid "Game list search message"
+msgstr "게임 목록 검색 메시지"
+
+#: main_6.cpp:8
+msgid "The games are also highlighted in the game list window"
+msgstr "게임은 게임 목록 창에도 강조 표시됩니다."
+
+#: main_6.cpp:10
+msgid "and can be purused with the following keyboard accelerators"
+msgstr "다음 키보드 가속기를 사용하여 실행할 수 있습니다."
+
+#: main_6.cpp:12
+msgid "find next matching game"
+msgstr "다음 매칭 게임 찾기"
+
+#: main_6.cpp:14
+msgid "find previous matching game"
+msgstr "이전 매칭 게임 찾기"
+
+#: main_6.cpp:16
+msgid "find first matching game"
+msgstr "첫 번째 매칭 게임 찾기"
+
+#: main_6.cpp:18
+msgid "find last matching game"
+msgstr "마지막 매칭 게임 찾기"
+
+#: main_6.cpp:21
+msgid "core"
+msgstr "핵심"
+
+#: main_6.cpp:23
+msgid "cores"
+msgstr "코어"
+
+#: main_6.cpp:26
+msgid "A single left mouse click anywhere on the empty area below"
+msgstr "아래 빈 공간의 아무 곳이나 마우스 왼쪽 버튼을 한 번 클릭합니다."
+
+#: main_6.cpp:28
+msgid "the list box and to the right of the buttons will move to"
+msgstr "목록 상자와 버튼 오른쪽으로 이동합니다."
+
+#: main_6.cpp:30
+msgid "and highlight the game number that has been bookmarked."
+msgstr "북마크된 게임 번호를 강조 표시합니다."
